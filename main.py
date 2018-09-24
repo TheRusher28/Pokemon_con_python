@@ -1,3 +1,7 @@
+__author__ = 'TheRusher28'
+__mantainer__ = 'TheRusher28'
+__email__ = 'therusher28@gmail.com'
+__status__ = 'Beginner'
 
 pkmn_rival = input('¿Con qué pokemon quieres luchar? (Bulbasaur, Charmander, Squirtle): ')
 vida_pikachu = 100
